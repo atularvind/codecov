@@ -7,7 +7,7 @@ Human Resources
 
 Odoo modules related to Human Resources management.
 
-
+codecov test
 
 
 Translation Status
