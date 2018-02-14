@@ -5,7 +5,7 @@
 Human Resources
 ===============
 
-Odoo modules related to Human Resources management.
+Odoo modules related to Human Resources management by OCA.
 
 
 
